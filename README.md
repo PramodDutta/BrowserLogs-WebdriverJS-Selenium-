@@ -1,7 +1,7 @@
 # SeleniumJSConsoleLogger
-A Javascript console logger in the Selenium Webdriver js Test cases.
+A Javascript console logger(From browser) in the Selenium Webdriver JS Test cases.
 
-###Usage :###
+### Usage :###
 
 In Your Test Add :
 
