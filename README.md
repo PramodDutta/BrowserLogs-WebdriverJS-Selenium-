@@ -1,7 +1,12 @@
 # SeleniumJSConsoleLogger
 A Javascript console logger(From browser) in the Selenium Webdriver JS Test cases.
 
-### Usage :###
+###- Requirement -###
+
+npm install path
+
+
+### -Usage- :###
 
 In Your Test Add :
 
@@ -19,11 +24,13 @@ In Your Test Add :
             
 
 
-#### Files Generated :- #####
+#### -Files Generated- :- #####
 
-Errors.json
+- Errors.json
 
-Warnings.json
+- Warnings.json
 
-Infos.json
+- Infos.json
+
+
 
