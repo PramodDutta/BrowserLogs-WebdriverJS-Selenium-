@@ -1,9 +1,11 @@
-# SeleniumJSConsoleLogger
+# Selenium - JSConsoleLogger
 A Javascript console logger(From browser) in the Selenium Webdriver JS Test cases.
+Very Handy - Just include in your test and get the logs
 
 ###- Requirement -###
 
 npm install path
+
 
 
 ### -Usage- :###
